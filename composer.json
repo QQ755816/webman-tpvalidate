@@ -1,5 +1,5 @@
 {
-    "name": "james1985/think-validate",
+    "name": "james1985/webman-tpvalidate",
     "description": "From thinkphp 8 use think-orm",
     "license":"MIT",
     "require": {
